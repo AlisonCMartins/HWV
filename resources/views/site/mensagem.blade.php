@@ -1,3 +1,4 @@
+
 @extends('app.layouts.basico')
 
 @section('titulo', 'Entre em contato')

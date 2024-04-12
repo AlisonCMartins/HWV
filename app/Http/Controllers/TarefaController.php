@@ -98,4 +98,3 @@ class TarefaController extends Controller{
         return redirect()->back();
     }
 }
-

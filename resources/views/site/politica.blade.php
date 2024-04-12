@@ -1,3 +1,4 @@
+
 @extends('app.layouts.basico')
 
 @section('titulo', 'Política de Privacidade')

@@ -1,3 +1,4 @@
+
 @extends('app.layouts.basico')
 
 @section('titulo', 'Encontre seu imóvel')
